@@ -3,7 +3,7 @@
 // Konfigurasi koneksi database PDO dengan Error Mode Exception
 
 $host = '127.0.0.1'; // atau 'localhost'
-$db   = 'inventory_db';
+$db   = 'p4_inventory_db';
 $user = 'root';
 $pass = ''; // Sesuaikan jika MySQL XAMPP Anda memiliki password
 $charset = 'utf8mb4';

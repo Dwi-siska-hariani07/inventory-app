@@ -1,8 +1,8 @@
 -- Database Schema for Inventory Management System
 -- Pertemuan 4: Relational Database + Advanced PHP
 
-CREATE DATABASE IF NOT EXISTS inventory_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE inventory_db;
+CREATE DATABASE IF NOT EXISTS p4_inventory_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE p4_inventory_db;
 
 -- 1. Users Table
 CREATE TABLE IF NOT EXISTS users (
